@@ -1,0 +1,25 @@
+apresentar projeto, explicando por que o protótipo não é perfeito
+
+Perguntar o que colocar na aba de CNPJ e Perdas de Processamento
+
+apresentar tecnologias e por que estão sendo utilizadas
+
+precificação, 5k, 4 meses pra testes 
+
+
+
+preparaar a apresentação
+Justificar o investimento
+ 	como?
+	0 mostrar o por que o progerama atual nao é funcional
+	1 entregar a solução do problema
+	2 mostrar a tecnologia nao é facil e precisoou da ajuda de um dev
+	3 apresentar o produto
+
+
+vida util, suporte, valores extras
+
+
+
+ideias extras
+- papel na impressora "boqueta" para marcar o pedfido realizado e quais produtos sairam do estoque para tal pedido

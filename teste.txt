@@ -1,0 +1,58 @@
+1 -  fazer um estoque de produtos, e dentro do estoque vão ter grupos e subgrupos
+2 - a pessoa que faria o pedido é um funcionario com a senha do sistema 
+ 2.1 - o sistema precisa ter grupos de funcionarios 
+ Gestor -> funcionario -> freelancer
+
+cnpj foi compradio no cnpj da empresa
+entrada, tudo que vai pro estoque
+produtos de compra e revenda, ele entra e sai (sem manipulaç)
+
+processamentyo tudo que vai ser tirado da caixa e manipulado
+    (compra, vai pro estoque como entrada, mas deve ser destinado para lugares diferentes)
+        quando manipulado e pronto, ele vai para a saída
+
+funcionario chega no estoque, e precisa dar baixa no sistema falando o quanto pegou de determinado produto
+
+
+
+
+*caderno de ocorrencia e perda de processamenrto serão preenchidas manualmente
+
+
+*impressao
+
+
+entrada, retirada, manipulação
+
+
+
+
+
+
+
+TECNOLOGIAS:
+Linguagem   --> Python
+Bibliotecas --> Tkinter e customtkinter
+Servidor    --> AWS EC2 (12 meses gratuitos)
+    quais as vantagens do EC2?
+        - ele é gratuito por 12 meses
+        - possui a segurança do servidor da amazon (sem dor de cabeça criando um firewall próprio)
+        - perfeito para aplicações "simples" com poucas requisições (nosso caso)
+        - é possível aumentar quando bem entender 
+BD          --> SqLite
+
+
+
+
+
+DÚVIDAS:
+O que colocar na aba "perdas de processamento" e na aba "CNPJ" 
+
+
+
+
+
+
+
+
+
